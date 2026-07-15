@@ -8,16 +8,24 @@
 </p>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/mohammad-shujad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn">
   </a>
-  <a href="mailto:mohd.shujad666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohd.shujad666@gmail.com">
+    <img src="https://img.shields.io/badge/SEND-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Send Email">
   </a>
-  <a href="./assets/Mohammed-Shujad-Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View-2F81F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+
+  <a href="https://github.com/MohammedShujad/MohammedShujad/blob/main/Mohammed-Shujad-Resume.pdf">
+    <img src="https://img.shields.io/badge/VIEW-RESUME-2F81F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+         alt="View Resume">
   </a>
+
 </p>
+
 
 <p align="center">
   📍 Khobar, Saudi Arabia &nbsp;•&nbsp; Available for IT Network, Desktop Support, and Technical Support opportunities
