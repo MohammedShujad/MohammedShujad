@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner.svg" alt="Mohammed Shujad - IT Network Engineer and Desktop Support Engineer" width="100%">
 </p>
-
 <h1 align="center">Mohammed Shujad</h1>
 
 <p align="center">
@@ -9,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-shujad-123456/">
+  <a href="https://www.linkedin.com/in/mohammad-shujad/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mohd.shujad666@gmail.com">
@@ -150,7 +149,7 @@ I am open to opportunities in:
 - IT Infrastructure Support
 
 **Email:** [mohd.shujad666@gmail.com](mailto:mohd.shujad666@gmail.com)  
-**LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/mohammed-shujad-123456/)
+**LinkedIn:**(https://www.linkedin.com/in/mohammad-shujad/)
 
 <p align="center">
   <strong>Reliable networks. Secure systems. Better user support.</strong>
