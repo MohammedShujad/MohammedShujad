@@ -127,17 +127,6 @@ A structured collection of troubleshooting articles for common desktop, account,
 - **CompTIA Network+**
 - **DevOps + AWS**
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedShujad&show_icons=true&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShujad&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top languages">
-</p>
-
----
-
 ## 📫 Contact
 
 I am open to opportunities in:
