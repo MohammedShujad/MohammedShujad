@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Mohammed Shujad - IT Network Engineer and Desktop Support Engineer" width="100%">
+  <img src="banner.svg" alt="Mohammed Shujad - IT Network Engineer and Desktop Support Engineer" width="100%">
 </p>
 
 <h1 align="center">Mohammed Shujad</h1>
