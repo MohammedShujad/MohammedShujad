@@ -137,7 +137,7 @@ I am open to opportunities in:
 - Technical Support
 - IT Infrastructure Support
 
-**Email:** [mohd.shujad666@gmail.com](mailto:mohd.shujad666@gmail.com)  
+**Email:** [mohd.shujad666@gmail.com](mohd.shujad666@gmail.com)  
 **LinkedIn:**(https://www.linkedin.com/in/mohammad-shujad/)
 
 <p align="center">
